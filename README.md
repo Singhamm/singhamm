@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amar Singh Chanautiya</h1>
 <h3 align="center">A Recruiter in transition to Data Science from India</h3>
 
-<img align= "right" alt="Data Never Lie" width="400" src = "https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm](https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47kn3mhp2lwfnl8crll5gh7ik2wp0881vaqfsql919&ep=v1_gifs_search&rid=giphy.gif&ct=g)" >
+<img align= "right" alt="Data Never Lie" width="400" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY1eWZpcDN2ZnVraGVpbWYzNnd6ODlhdm1xeDA0YXh6d3IyZzZpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhamm&label=Profile%20views&color=0e75b6&style=flat" alt="singhamm" /> </p>
 
