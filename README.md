@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Freelance Projects and Internships**
 
-- 🌱 I’m currently learning **Deep Learning and AI stuff**
+- 🌱 I’m currently learning **Data Science, ML, and related stuff to advance**
 
 - 💬 Ask me about **Data Science and Analytics**
 
